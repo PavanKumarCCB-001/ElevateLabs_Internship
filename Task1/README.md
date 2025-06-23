@@ -41,7 +41,7 @@ Used the Linux Distribution i.e, Kali Linux
 
 ## Screenshots
 
-![Screenshot](Assets/gateway_ip.png)
+![Screenshot](https://github.com/PavanKumarCCB-001/ElevateLabs_Internship/tree/main/Assets/gateway_ip.png)
 
 ![Screenshot](Assets/packetCap.png)
 

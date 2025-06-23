@@ -41,10 +41,15 @@ Used the Linux Distribution i.e, Kali Linux
 
 ## Screenshots
 
+Here we have the IP Address of the Router
 ![Screenshot](gateway_ip.png)
 
-![Screenshot](packetCap.png)
-
+Here we have Performed the TCP SYN scan using the Nmap
 ![Screenshot](tcp_syn-scan.png)
 
+Now we have captured the packets using the WireShark
+![Screenshot](packetCap.png)
+
+We can also Use ZenMap which is the UI Tool for the NMap
 ![Screenshot](tcp_syn-scan_zenmap.png)
+

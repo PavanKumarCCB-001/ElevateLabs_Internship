@@ -61,3 +61,10 @@ We can also Use ZenMap which is the UI Tool for the NMap
 - Port 80: Which is basically used by the Famous Application Layer protocol i.e HTTP which stands for the HyperText Transfer Protocol
 - Port 443: This port offers the HTTPS service i.e, Hyper Text Transfer Protocol Secure
 
+## Potential security risks from open ports are:
+1) Unauthorized Access
+2) Vulnerable Services
+3) Information Disclosure
+4) Malware Entry Points
+
+Hence we Have performed the Scanning of the Local Network & Thereby identified the Open Ports & got to know the Risks associated with the Open Ports.

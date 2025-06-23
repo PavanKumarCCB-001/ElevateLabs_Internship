@@ -53,3 +53,11 @@ Now we have captured the packets using the WireShark
 We can also Use ZenMap which is the UI Tool for the NMap
 ![Screenshot](tcp_syn-scan_zenmap.png)
 
+## Services Running on the Ports
+- Port 21: On this Port we have FTP i.e, File Transfer Protocol which is used to transmit the files.
+- Port 22: we have SSH i.e, Secure Shell
+- Port 23: we have TELNET i.e, Telephone Network
+- Port 53: Which is used for DNS i.e, Domain Name System
+- Port 80: Which is basically used by the Famous Application Layer protocol i.e HTTP which stands for the HyperText Transfer Protocol
+- Port 443: This port offers the HTTPS service i.e, Hyper Text Transfer Protocol Secure
+

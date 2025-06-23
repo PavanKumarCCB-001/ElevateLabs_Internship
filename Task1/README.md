@@ -41,10 +41,10 @@ Used the Linux Distribution i.e, Kali Linux
 
 ## Screenshots
 
-![Screenshot](https://github.com/PavanKumarCCB-001/ElevateLabs_Internship/tree/main/Assets/gateway_ip.png)
+![Screenshot](gateway_ip.png)
 
-![Screenshot](Assets/packetCap.png)
+![Screenshot](packetCap.png)
 
-![Screenshot](Assets/tcp_syn-scan.png)
+![Screenshot](tcp_syn-scan.png)
 
-![Screenshot](Assets/tcp_syn-scan_zenmap.png)
+![Screenshot](tcp_syn-scan_zenmap.png)

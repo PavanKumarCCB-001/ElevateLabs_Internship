@@ -22,8 +22,4 @@ Here,I configured and tested basic firewall rules using **Windows Firewall with 
   ```bash
   telnet localhost 23
   ```
-## Screenshots: (For Better Understanding in a Order)
-
-Advance Settings in the Windows Firewall
-
-![Screenshot](Advancesettings.png)
+Above I've Provided the Screenshots for the Better Understanding.

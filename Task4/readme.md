@@ -25,5 +25,5 @@ Here,I configured and tested basic firewall rules using **Windows Firewall with 
 ## Screenshots: (For Better Understanding in a Order)
 
 Advance Settings in the Windows Firewall
-![Screenshot](Advance settings.png)
+![Screenshot](Advancesettings.png)
 

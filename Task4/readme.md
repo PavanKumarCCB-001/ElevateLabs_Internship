@@ -11,7 +11,7 @@ Here,I configured and tested basic firewall rules using **Windows Firewall with 
 
 ## 🧪 What I Did ?
 
-# ✅ Step 1: Enabled Windows Firewall Rules
+### ✅ Step 1: Enabled Windows Firewall Rules
 - Opened **Windows Firewall with Advanced Security**
 - Created a **New Inbound Rule** to **block TCP traffic on port 23 (Telnet)**
 

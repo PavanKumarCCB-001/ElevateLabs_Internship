@@ -63,4 +63,4 @@ Each password was tested on multiple tools. I noted:
 
 ![Screenshot](Medium-password.png)
 
-![Screenshot](Very_Stron-password.png)
+![Screenshot](Very_Strong-password.png)

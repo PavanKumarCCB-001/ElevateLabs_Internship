@@ -56,3 +56,11 @@ Each password was tested on multiple tools. I noted:
 - Don’t reuse passwords across sites.
 - Use a **password manager** to store and generate secure passwords.
 - Enable **multi-factor authentication (MFA)** wherever possible.
+
+### Screenshots showing the Password Strength Results:
+
+![Screenshot](Weak-password.png)
+
+![Screenshot](Medium-password.png)
+
+![Screenshot](Very_Stron-password.png)

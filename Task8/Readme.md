@@ -28,9 +28,16 @@
 - Confirmed that the IP shown was different from my original IP
 
 ### 📸 Screenshots:
-- ProtonVPN installation and login
-- IP address before and after VPN connection
-- whatismyipaddress.com results
+
+- IP address before VPN connection
+  ![Screenshot](Ip_beforeVPN.png)
+
+  ![Screenshot](Verification_BeforeVPN.png)
+
+- IP address After VPN connection
+  ![Screenshot](Ip_AfterVPN.png)
+
+  ![Screenshot](Verification_AfterVPN.png)
 
 ### 🔐 VPN Benefits & Limitations
 
@@ -44,4 +51,3 @@
 - May reduce internet speed
 - Free VPNs have limited server options
 - Doesn’t guarantee full anonymity
-

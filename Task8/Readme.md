@@ -32,10 +32,10 @@
 - IP address before VPN connection
   ![Screenshot](Ip_beforeVPN.png)
 
-  ![Screenshot](Verification_BeforeVPN.png)
+  ![Screenshot](Verfication_BeforeVPN.png)
 
 - IP address After VPN connection
-  ![Screenshot](Ip_AfterVPN.png)
+  ![Screenshot](IP_AfterVPN.png)
 
   ![Screenshot](Verification_AfterVPN.png)
 
